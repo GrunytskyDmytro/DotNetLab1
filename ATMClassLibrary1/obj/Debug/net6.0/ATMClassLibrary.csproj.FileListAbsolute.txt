@@ -1,0 +1,24 @@
+D:\proggers\net\DotNetLab1\ATMClassLibrary1\bin\Debug\net6.0\ATMClassLibrary.deps.json
+D:\proggers\net\DotNetLab1\ATMClassLibrary1\bin\Debug\net6.0\ATMClassLibrary.dll
+D:\proggers\net\DotNetLab1\ATMClassLibrary1\bin\Debug\net6.0\ATMClassLibrary.pdb
+D:\proggers\net\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ATMClassLibrary.csproj.AssemblyReference.cache
+D:\proggers\net\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ATMClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\proggers\net\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ATMClassLibrary.AssemblyInfoInputs.cache
+D:\proggers\net\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ATMClassLibrary.AssemblyInfo.cs
+D:\proggers\net\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ATMClassLibrary.csproj.CoreCompileInputs.cache
+D:\proggers\net\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ATMClassLibrary.dll
+D:\proggers\net\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\refint\ATMClassLibrary.dll
+D:\proggers\net\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ATMClassLibrary.pdb
+D:\proggers\net\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ref\ATMClassLibrary.dll
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\bin\Debug\net6.0\ATMClassLibrary.deps.json
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\bin\Debug\net6.0\ATMClassLibrary.dll
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\bin\Debug\net6.0\ATMClassLibrary.pdb
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ATMClassLibrary.csproj.AssemblyReference.cache
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ATMClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ATMClassLibrary.AssemblyInfoInputs.cache
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ATMClassLibrary.AssemblyInfo.cs
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ATMClassLibrary.csproj.CoreCompileInputs.cache
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ATMClassLibrary.dll
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\refint\ATMClassLibrary.dll
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ATMClassLibrary.pdb
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ref\ATMClassLibrary.dll

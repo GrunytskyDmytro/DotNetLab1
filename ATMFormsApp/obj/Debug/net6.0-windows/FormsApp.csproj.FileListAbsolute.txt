@@ -1,0 +1,1 @@
+D:\Training programs\VS repos\DotNetLab1\ATMFormsApp\obj\Debug\net6.0-windows\FormsApp.csproj.AssemblyReference.cache

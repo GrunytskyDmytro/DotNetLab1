@@ -1,0 +1,12 @@
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\bin\Debug\net6.0\ClassLibrary.deps.json
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\bin\Debug\net6.0\ClassLibrary.dll
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\bin\Debug\net6.0\ClassLibrary.pdb
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ClassLibrary.dll
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary.dll
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ClassLibrary.pdb
+D:\Training programs\VS repos\DotNetLab1\ATMClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary.dll
