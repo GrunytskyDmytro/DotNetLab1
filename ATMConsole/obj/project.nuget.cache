@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tgAv+BgD7MU1xJx0pcXR3/lweqA9XOfpQ5bblRkr9x7If2ttdkduO3BZm5TAZw+pPfPGznA11chZStdscPk47g==",
+  "dgSpecHash": "csSdAgeBHuMw1I6pAeg/rrjdFdV4DWP3AUZ78pmzCtyH3EFWhPq9VR7WGhpIQ6EhU/na5S96bsE1VgiSyWWFKg==",
   "success": true,
-  "projectFilePath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMConsole\\ConsoleApp.csproj",
+  "projectFilePath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMConsole\\ATMConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

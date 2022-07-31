@@ -4,12 +4,12 @@
     "D:\\Training programs\\VS repos\\DotNetLab1\\ATMConsole\\ATMConsole.csproj": {}
   },
   "projects": {
-    "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ClassLibrary.csproj": {
+    "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ATMClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ClassLibrary.csproj",
-        "projectName": "ClassLibrary",
-        "projectPath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ClassLibrary.csproj",
+        "projectUniqueName": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ATMClassLibrary.csproj",
+        "projectName": "ATMClassLibrary",
+        "projectPath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ATMClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Димка\\.nuget\\packages\\",
         "outputPath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
@@ -90,8 +90,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ClassLibrary.csproj": {
-                "projectPath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ClassLibrary.csproj"
+              "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ATMClassLibrary.csproj": {
+                "projectPath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ATMClassLibrary.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZfvajwTYslo1+rNFsRxibs2e7uP4sa1oc2sxZUDOWblrN8EresUBDZKWF8gWvn5zXR9VZLa4W+Ea8PptDq25kA==",
+  "dgSpecHash": "h2eOQVD2ujM0eVhTs+kBsrBa0ePSE3oWbCf+qsSD0FmoYzbqQpDb8IroDCr8HSx1PeFsUK1WcTaPTomLCI1yRQ==",
   "success": true,
-  "projectFilePath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMFormsApp\\FormsApp.csproj",
+  "projectFilePath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMFormsApp\\ATMFormsApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

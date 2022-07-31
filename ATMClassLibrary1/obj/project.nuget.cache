@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VXMOgzuLwxcKpt6dVmGyPIQXTgaPZqPp6+BjQlEksbCHuqSRfqmB6XdnQYL77uQHZMapP2njq9krWYo6jaQNBQ==",
+  "dgSpecHash": "4ifxIurMNHmbUnV4+gLe6ox1ohwNCH350wvZoPE0J2bRxQYQyQp9bic4moFFV9RBxSEMrQP7XuS8RaaiykE3QQ==",
   "success": true,
-  "projectFilePath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ClassLibrary.csproj",
+  "projectFilePath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ATMClassLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

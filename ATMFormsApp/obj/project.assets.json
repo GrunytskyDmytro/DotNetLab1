@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
-      "ClassLibrary/1.0.0": {
+      "ATMClassLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/ClassLibrary.dll": {}
+          "bin/placeholder/ATMClassLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ClassLibrary.dll": {}
+          "bin/placeholder/ATMClassLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ClassLibrary/1.0.0": {
+    "ATMClassLibrary/1.0.0": {
       "type": "project",
-      "path": "../ATMClassLibrary1/ClassLibrary.csproj",
-      "msbuildProject": "../ATMClassLibrary1/ClassLibrary.csproj"
+      "path": "../ATMClassLibrary1/ATMClassLibrary.csproj",
+      "msbuildProject": "../ATMClassLibrary1/ATMClassLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "ClassLibrary >= 1.0.0"
+      "ATMClassLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMFormsApp\\FormsApp.csproj",
-      "projectName": "FormsApp",
-      "projectPath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMFormsApp\\FormsApp.csproj",
+      "projectUniqueName": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMFormsApp\\ATMFormsApp.csproj",
+      "projectName": "ATMFormsApp",
+      "projectPath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMFormsApp\\ATMFormsApp.csproj",
       "packagesPath": "C:\\Users\\Димка\\.nuget\\packages\\",
       "outputPath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMFormsApp\\obj\\",
       "projectStyle": "PackageReference",
@@ -58,8 +58,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ClassLibrary.csproj": {
-              "projectPath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ClassLibrary.csproj"
+            "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ATMClassLibrary.csproj": {
+              "projectPath": "D:\\Training programs\\VS repos\\DotNetLab1\\ATMClassLibrary1\\ATMClassLibrary.csproj"
             }
           }
         }
